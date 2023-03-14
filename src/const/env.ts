@@ -1,1 +1,1 @@
-export const API_URL = process.env.NEXT_PUBLIC_API_URL as string;
+export const OPENAI_SECRET = process.env.OPENAI_SECRET as string;
